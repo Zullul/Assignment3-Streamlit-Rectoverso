@@ -1,8 +1,10 @@
 streamlit
 numpy
-tensorflow
+tensorflow==2.15.0
 opencv-python-headless
 Pillow
 requests
 matplotlib
 ultralytics
+keras==2.15.0
+h5py==3.13.0
